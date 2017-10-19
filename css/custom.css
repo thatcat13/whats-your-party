@@ -1,0 +1,20 @@
+#liberal-tab {
+  display: none;
+  margin-top: 20px;
+  font-size: 30px;
+  text-shadow: 2px 2px 6px gray;
+}
+
+#conserv-tab {
+  display: none;
+  margin-top: 20px;
+  font-size: 30px;
+  text-shadow: 2px 2px 6px gray;
+}
+
+#germany-tab {
+  display: none;
+  margin-top: 20px;
+  font-size: 30px;
+  text-shadow: 2px 2px 6px gray;
+}
